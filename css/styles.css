@@ -1,0 +1,51 @@
+body{
+    font-size: large;
+    font-family: 'Lato', sans-serif;
+}
+header ul{
+    list-style: none;
+    text-align: right;
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+    float: right;
+}
+header ul li{
+    display: inline;
+    color: white;
+    padding-right: 20px;
+}
+.header{
+    background: black;
+    padding: 20px;
+}
+h3{
+    color: white;
+    display: inline-block;
+    margin: 0;
+    
+}
+*{
+    box-sizing: border-box;
+}
+.clear{
+    clear: both;
+}
+.test1{
+    width: 33.333%;
+    float: left;
+    padding: 20px;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+.test2{
+    width: 50%;
+    float: left;
+    padding: 20px;
+}
+.test3{
+    width: 100%;
+    padding: 20px;
+}
